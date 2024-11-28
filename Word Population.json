@@ -1,0 +1,2342 @@
+[
+  {
+    "Country": "India",
+    "Population 2024": 1441719852,
+    "Population 2023": 1428627663,
+    "Area (km2)": "3M",
+    "Density (/km2)": 485,
+    "Growth Rate": 0.0092,
+    "World %": 0.1801,
+    "World Rank": 1
+  },
+  {
+    "Country": "China",
+    "Population 2024": 1425178782,
+    "Population 2023": 1425671352,
+    "Area (km2)": "9.4M",
+    "Density (/km2)": 151,
+    "Growth Rate": -0.0003,
+    "World %": 0.178,
+    "World Rank": 2
+  },
+  {
+    "Country": "United States",
+    "Population 2024": 341814420,
+    "Population 2023": 339996563,
+    "Area (km2)": "9.1M",
+    "Density (/km2)": 37,
+    "Growth Rate": 0.0053,
+    "World %": 0.0427,
+    "World Rank": 3
+  },
+  {
+    "Country": "Indonesia",
+    "Population 2024": 279798049,
+    "Population 2023": 277534122,
+    "Area (km2)": "1.9M",
+    "Density (/km2)": 149,
+    "Growth Rate": 0.0082,
+    "World %": 0.035,
+    "World Rank": 4
+  },
+  {
+    "Country": "Pakistan",
+    "Population 2024": 245209815,
+    "Population 2023": 240485658,
+    "Area (km2)": "770.9K",
+    "Density (/km2)": 318,
+    "Growth Rate": 0.0196,
+    "World %": 0.0306,
+    "World Rank": 5
+  },
+  {
+    "Country": "Nigeria",
+    "Population 2024": 229152217,
+    "Population 2023": 223804632,
+    "Area (km2)": "910.8K",
+    "Density (/km2)": 252,
+    "Growth Rate": 0.0239,
+    "World %": 0.0286,
+    "World Rank": 6
+  },
+  {
+    "Country": "Brazil",
+    "Population 2024": 217637297,
+    "Population 2023": 216422446,
+    "Area (km2)": "8.4M",
+    "Density (/km2)": 26,
+    "Growth Rate": 0.0056,
+    "World %": 0.0272,
+    "World Rank": 7
+  },
+  {
+    "Country": "Bangladesh",
+    "Population 2024": 174701211,
+    "Population 2023": 172954319,
+    "Area (km2)": "130.2K",
+    "Density (/km2)": 1342,
+    "Growth Rate": 0.0101,
+    "World %": 0.0218,
+    "World Rank": 8
+  },
+  {
+    "Country": "Russia",
+    "Population 2024": 143957079,
+    "Population 2023": 144444359,
+    "Area (km2)": "16.4M",
+    "Density (/km2)": 9,
+    "Growth Rate": -0.0034,
+    "World %": 0.018,
+    "World Rank": 9
+  },
+  {
+    "Country": "Ethiopia",
+    "Population 2024": 129719719,
+    "Population 2023": 126527060,
+    "Area (km2)": "1.1M",
+    "Density (/km2)": 115,
+    "Growth Rate": 0.0252,
+    "World %": 0.0162,
+    "World Rank": 10
+  },
+  {
+    "Country": "Mexico",
+    "Population 2024": 129388467,
+    "Population 2023": 128455567,
+    "Area (km2)": "1.9M",
+    "Density (/km2)": 67,
+    "Growth Rate": 0.0073,
+    "World %": 0.0162,
+    "World Rank": 11
+  },
+  {
+    "Country": "Japan",
+    "Population 2024": 122631432,
+    "Population 2023": 123294513,
+    "Area (km2)": "364.5K",
+    "Density (/km2)": 336,
+    "Growth Rate": -0.0054,
+    "World %": 0.0153,
+    "World Rank": 12
+  },
+  {
+    "Country": "Philippines",
+    "Population 2024": 119106224,
+    "Population 2023": 117337368,
+    "Area (km2)": "298.2K",
+    "Density (/km2)": 399,
+    "Growth Rate": 0.0151,
+    "World %": 0.0149,
+    "World Rank": 13
+  },
+  {
+    "Country": "Egypt",
+    "Population 2024": 114484252,
+    "Population 2023": 112716598,
+    "Area (km2)": "1M",
+    "Density (/km2)": 115,
+    "Growth Rate": 0.0157,
+    "World %": 0.0143,
+    "World Rank": 14
+  },
+  {
+    "Country": "DR Congo",
+    "Population 2024": 105625114,
+    "Population 2023": 102262808,
+    "Area (km2)": "2.3M",
+    "Density (/km2)": 47,
+    "Growth Rate": 0.0329,
+    "World %": 0.0132,
+    "World Rank": 15
+  },
+  {
+    "Country": "Vietnam",
+    "Population 2024": 99497680,
+    "Population 2023": 98858950,
+    "Area (km2)": "313.4K",
+    "Density (/km2)": 317,
+    "Growth Rate": 0.0065,
+    "World %": 0.0124,
+    "World Rank": 16
+  },
+  {
+    "Country": "Iran",
+    "Population 2024": 89809781,
+    "Population 2023": 89172767,
+    "Area (km2)": "1.6M",
+    "Density (/km2)": 55,
+    "Growth Rate": 0.0071,
+    "World %": 0.0112,
+    "World Rank": 17
+  },
+  {
+    "Country": "Turkey",
+    "Population 2024": 86260417,
+    "Population 2023": 85816199,
+    "Area (km2)": "783.6K",
+    "Density (/km2)": 110,
+    "Growth Rate": 0.0052,
+    "World %": 0.0108,
+    "World Rank": 18
+  },
+  {
+    "Country": "Germany",
+    "Population 2024": 83252474,
+    "Population 2023": 83294633,
+    "Area (km2)": "349.4K",
+    "Density (/km2)": 238,
+    "Growth Rate": -0.0005,
+    "World %": 0.0104,
+    "World Rank": 19
+  },
+  {
+    "Country": "Thailand",
+    "Population 2024": 71885799,
+    "Population 2023": 71801279,
+    "Area (km2)": "510.9K",
+    "Density (/km2)": 141,
+    "Growth Rate": 0.0012,
+    "World %": 0.009,
+    "World Rank": 20
+  },
+  {
+    "Country": "Tanzania",
+    "Population 2024": 69419073,
+    "Population 2023": 67438106,
+    "Area (km2)": "885.8K",
+    "Density (/km2)": 78,
+    "Growth Rate": 0.0294,
+    "World %": 0.0087,
+    "World Rank": 21
+  },
+  {
+    "Country": "United Kingdom",
+    "Population 2024": 67961439,
+    "Population 2023": 67736802,
+    "Area (km2)": "241.9K",
+    "Density (/km2)": 281,
+    "Growth Rate": 0.0033,
+    "World %": 0.0085,
+    "World Rank": 22
+  },
+  {
+    "Country": "France",
+    "Population 2024": 64881830,
+    "Population 2023": 64756584,
+    "Area (km2)": "547.6K",
+    "Density (/km2)": 118,
+    "Growth Rate": 0.0019,
+    "World %": 0.0081,
+    "World Rank": 23
+  },
+  {
+    "Country": "South Africa",
+    "Population 2024": 61020221,
+    "Population 2023": 60414495,
+    "Area (km2)": "1.2M",
+    "Density (/km2)": 50,
+    "Growth Rate": 0.01,
+    "World %": 0.0076,
+    "World Rank": 24
+  },
+  {
+    "Country": "Italy",
+    "Population 2024": 58697744,
+    "Population 2023": 58870762,
+    "Area (km2)": "295.7K",
+    "Density (/km2)": 198,
+    "Growth Rate": -0.0029,
+    "World %": 0.0073,
+    "World Rank": 25
+  },
+  {
+    "Country": "Kenya",
+    "Population 2024": 56203030,
+    "Population 2023": 55100586,
+    "Area (km2)": "569.1K",
+    "Density (/km2)": 99,
+    "Growth Rate": 0.02,
+    "World %": 0.007,
+    "World Rank": 26
+  },
+  {
+    "Country": "Myanmar",
+    "Population 2024": 54964694,
+    "Population 2023": 54577997,
+    "Area (km2)": "652.7K",
+    "Density (/km2)": 84,
+    "Growth Rate": 0.0071,
+    "World %": 0.0069,
+    "World Rank": 27
+  },
+  {
+    "Country": "Colombia",
+    "Population 2024": 52340774,
+    "Population 2023": 52085168,
+    "Area (km2)": "1.1M",
+    "Density (/km2)": 47,
+    "Growth Rate": 0.0049,
+    "World %": 0.0065,
+    "World Rank": 28
+  },
+  {
+    "Country": "South Korea",
+    "Population 2024": 51741963,
+    "Population 2023": 51784059,
+    "Area (km2)": "97.6K",
+    "Density (/km2)": 530,
+    "Growth Rate": -0.0008,
+    "World %": 0.0065,
+    "World Rank": 29
+  },
+  {
+    "Country": "Uganda",
+    "Population 2024": 49924252,
+    "Population 2023": 48582334,
+    "Area (km2)": "200.5K",
+    "Density (/km2)": 249,
+    "Growth Rate": 0.0276,
+    "World %": 0.0062,
+    "World Rank": 30
+  },
+  {
+    "Country": "Sudan",
+    "Population 2024": 49358228,
+    "Population 2023": 48109006,
+    "Area (km2)": "1.9M",
+    "Density (/km2)": 26,
+    "Growth Rate": 0.026,
+    "World %": 0.0062,
+    "World Rank": 31
+  },
+  {
+    "Country": "Spain",
+    "Population 2024": 47473373,
+    "Population 2023": 47519628,
+    "Area (km2)": "499.6K",
+    "Density (/km2)": 95,
+    "Growth Rate": -0.001,
+    "World %": 0.0059,
+    "World Rank": 32
+  },
+  {
+    "Country": "Iraq",
+    "Population 2024": 46523657,
+    "Population 2023": 45504560,
+    "Area (km2)": "434.1K",
+    "Density (/km2)": 107,
+    "Growth Rate": 0.0224,
+    "World %": 0.0058,
+    "World Rank": 33
+  },
+  {
+    "Country": "Algeria",
+    "Population 2024": 46278751,
+    "Population 2023": 45606480,
+    "Area (km2)": "2.4M",
+    "Density (/km2)": 19,
+    "Growth Rate": 0.0147,
+    "World %": 0.0058,
+    "World Rank": 34
+  },
+  {
+    "Country": "Argentina",
+    "Population 2024": 46057866,
+    "Population 2023": 45773884,
+    "Area (km2)": "2.7M",
+    "Density (/km2)": 17,
+    "Growth Rate": 0.0062,
+    "World %": 0.0058,
+    "World Rank": 35
+  },
+  {
+    "Country": "Afghanistan",
+    "Population 2024": 43372950,
+    "Population 2023": 42239854,
+    "Area (km2)": "652.2K",
+    "Density (/km2)": 66,
+    "Growth Rate": 0.0268,
+    "World %": 0.0054,
+    "World Rank": 36
+  },
+  {
+    "Country": "Poland",
+    "Population 2024": 40221726,
+    "Population 2023": 41026067,
+    "Area (km2)": "306.1K",
+    "Density (/km2)": 131,
+    "Growth Rate": -0.0196,
+    "World %": 0.005,
+    "World Rank": 37
+  },
+  {
+    "Country": "Canada",
+    "Population 2024": 39107046,
+    "Population 2023": 38781291,
+    "Area (km2)": "9M",
+    "Density (/km2)": 4,
+    "Growth Rate": 0.0084,
+    "World %": 0.0049,
+    "World Rank": 38
+  },
+  {
+    "Country": "Morocco",
+    "Population 2024": 38211459,
+    "Population 2023": 37840044,
+    "Area (km2)": "446.3K",
+    "Density (/km2)": 86,
+    "Growth Rate": 0.0098,
+    "World %": 0.0048,
+    "World Rank": 39
+  },
+  {
+    "Country": "Ukraine",
+    "Population 2024": 37937821,
+    "Population 2023": 36744634,
+    "Area (km2)": "579.4K",
+    "Density (/km2)": 65,
+    "Growth Rate": 0.0325,
+    "World %": 0.0047,
+    "World Rank": 40
+  },
+  {
+    "Country": "Angola",
+    "Population 2024": 37804634,
+    "Population 2023": 36684202,
+    "Area (km2)": "1.2M",
+    "Density (/km2)": 30,
+    "Growth Rate": 0.0305,
+    "World %": 0.0047,
+    "World Rank": 41
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Population 2024": 37473929,
+    "Population 2023": 36947025,
+    "Area (km2)": "2.1M",
+    "Density (/km2)": 17,
+    "Growth Rate": 0.0143,
+    "World %": 0.0047,
+    "World Rank": 42
+  },
+  {
+    "Country": "Uzbekistan",
+    "Population 2024": 35673804,
+    "Population 2023": 35163944,
+    "Area (km2)": "440.6K",
+    "Density (/km2)": 81,
+    "Growth Rate": 0.0145,
+    "World %": 0.0045,
+    "World Rank": 43
+  },
+  {
+    "Country": "Yemen",
+    "Population 2024": 35219853,
+    "Population 2023": 34449825,
+    "Area (km2)": "528K",
+    "Density (/km2)": 67,
+    "Growth Rate": 0.0224,
+    "World %": 0.0044,
+    "World Rank": 44
+  },
+  {
+    "Country": "Mozambique",
+    "Population 2024": 34858402,
+    "Population 2023": 33897354,
+    "Area (km2)": "786.4K",
+    "Density (/km2)": 44,
+    "Growth Rate": 0.0284,
+    "World %": 0.0044,
+    "World Rank": 45
+  },
+  {
+    "Country": "Ghana",
+    "Population 2024": 34777522,
+    "Population 2023": 34121985,
+    "Area (km2)": "227.5K",
+    "Density (/km2)": 153,
+    "Growth Rate": 0.0192,
+    "World %": 0.0043,
+    "World Rank": 46
+  },
+  {
+    "Country": "Peru",
+    "Population 2024": 34683444,
+    "Population 2023": 34352719,
+    "Area (km2)": "1.3M",
+    "Density (/km2)": 27,
+    "Growth Rate": 0.0096,
+    "World %": 0.0043,
+    "World Rank": 47
+  },
+  {
+    "Country": "Malaysia",
+    "Population 2024": 34671895,
+    "Population 2023": 34308525,
+    "Area (km2)": "328.6K",
+    "Density (/km2)": 106,
+    "Growth Rate": 0.0106,
+    "World %": 0.0043,
+    "World Rank": 48
+  },
+  {
+    "Country": "Nepal",
+    "Population 2024": 31240315,
+    "Population 2023": 30896590,
+    "Area (km2)": "143.3K",
+    "Density (/km2)": 218,
+    "Growth Rate": 0.0111,
+    "World %": 0.0039,
+    "World Rank": 49
+  },
+  {
+    "Country": "Madagascar",
+    "Population 2024": 31056610,
+    "Population 2023": 30325732,
+    "Area (km2)": "581.8K",
+    "Density (/km2)": 53,
+    "Growth Rate": 0.0241,
+    "World %": 0.0039,
+    "World Rank": 50
+  },
+  {
+    "Country": "Ivory Coast",
+    "Population 2024": 29603302,
+    "Population 2023": 28873034,
+    "Area (km2)": "318K",
+    "Density (/km2)": 93,
+    "Growth Rate": 0.0253,
+    "World %": 0.0037,
+    "World Rank": 51
+  },
+  {
+    "Country": "Venezuela",
+    "Population 2024": 29395334,
+    "Population 2023": 28838499,
+    "Area (km2)": "882K",
+    "Density (/km2)": 33,
+    "Growth Rate": 0.0193,
+    "World %": 0.0037,
+    "World Rank": 52
+  },
+  {
+    "Country": "Cameroon",
+    "Population 2024": 29394433,
+    "Population 2023": 28647293,
+    "Area (km2)": "472.7K",
+    "Density (/km2)": 62,
+    "Growth Rate": 0.0261,
+    "World %": 0.0037,
+    "World Rank": 53
+  },
+  {
+    "Country": "Niger",
+    "Population 2024": 28238972,
+    "Population 2023": 27202843,
+    "Area (km2)": "1.3M",
+    "Density (/km2)": 22,
+    "Growth Rate": 0.0381,
+    "World %": 0.0035,
+    "World Rank": 54
+  },
+  {
+    "Country": "Australia",
+    "Population 2024": 26699482,
+    "Population 2023": 26439111,
+    "Area (km2)": "7.7M",
+    "Density (/km2)": 3,
+    "Growth Rate": 0.0098,
+    "World %": 0.0033,
+    "World Rank": 55
+  },
+  {
+    "Country": "North Korea",
+    "Population 2024": 26244582,
+    "Population 2023": 26160821,
+    "Area (km2)": "120.4K",
+    "Density (/km2)": 218,
+    "Growth Rate": 0.0032,
+    "World %": 0.0033,
+    "World Rank": 56
+  },
+  {
+    "Country": "Syria",
+    "Population 2024": 24348053,
+    "Population 2023": 23227014,
+    "Area (km2)": "183.6K",
+    "Density (/km2)": 133,
+    "Growth Rate": 0.0483,
+    "World %": 0.003,
+    "World Rank": 57
+  },
+  {
+    "Country": "Mali",
+    "Population 2024": 24015789,
+    "Population 2023": 23293698,
+    "Area (km2)": "1.2M",
+    "Density (/km2)": 20,
+    "Growth Rate": 0.031,
+    "World %": 0.003,
+    "World Rank": 58
+  },
+  {
+    "Country": "Taiwan",
+    "Population 2024": 23950214,
+    "Population 2023": 23923276,
+    "Area (km2)": "36.2K",
+    "Density (/km2)": 662,
+    "Growth Rate": 0.0011,
+    "World %": 0.003,
+    "World Rank": 59
+  },
+  {
+    "Country": "Burkina Faso",
+    "Population 2024": 23840247,
+    "Population 2023": 23251485,
+    "Area (km2)": "273.6K",
+    "Density (/km2)": 87,
+    "Growth Rate": 0.0253,
+    "World %": 0.003,
+    "World Rank": 60
+  },
+  {
+    "Country": "Sri Lanka",
+    "Population 2024": 21949268,
+    "Population 2023": 21893579,
+    "Area (km2)": "61.9K",
+    "Density (/km2)": 355,
+    "Growth Rate": 0.0025,
+    "World %": 0.0027,
+    "World Rank": 61
+  },
+  {
+    "Country": "Malawi",
+    "Population 2024": 21475962,
+    "Population 2023": 20931751,
+    "Area (km2)": "94.3K",
+    "Density (/km2)": 228,
+    "Growth Rate": 0.026,
+    "World %": 0.0027,
+    "World Rank": 62
+  },
+  {
+    "Country": "Zambia",
+    "Population 2024": 21134695,
+    "Population 2023": 20569737,
+    "Area (km2)": "743.4K",
+    "Density (/km2)": 28,
+    "Growth Rate": 0.0275,
+    "World %": 0.0026,
+    "World Rank": 63
+  },
+  {
+    "Country": "Kazakhstan",
+    "Population 2024": 19828165,
+    "Population 2023": 19606633,
+    "Area (km2)": "2.7M",
+    "Density (/km2)": 7,
+    "Growth Rate": 0.0113,
+    "World %": 0.0025,
+    "World Rank": 64
+  },
+  {
+    "Country": "Chile",
+    "Population 2024": 19658839,
+    "Population 2023": 19629590,
+    "Area (km2)": "743.5K",
+    "Density (/km2)": 26,
+    "Growth Rate": 0.0015,
+    "World %": 0.0025,
+    "World Rank": 65
+  },
+  {
+    "Country": "Romania",
+    "Population 2024": 19618996,
+    "Population 2023": 19892812,
+    "Area (km2)": "230.1K",
+    "Density (/km2)": 85,
+    "Growth Rate": -0.0138,
+    "World %": 0.0025,
+    "World Rank": 66
+  },
+  {
+    "Country": "Chad",
+    "Population 2024": 18847148,
+    "Population 2023": 18278568,
+    "Area (km2)": "1.3M",
+    "Density (/km2)": 15,
+    "Growth Rate": 0.0311,
+    "World %": 0.0024,
+    "World Rank": 67
+  },
+  {
+    "Country": "Somalia",
+    "Population 2024": 18706922,
+    "Population 2023": 18143378,
+    "Area (km2)": "627.3K",
+    "Density (/km2)": 30,
+    "Growth Rate": 0.0311,
+    "World %": 0.0023,
+    "World Rank": 68
+  },
+  {
+    "Country": "Ecuador",
+    "Population 2024": 18377367,
+    "Population 2023": 18190484,
+    "Area (km2)": "248.4K",
+    "Density (/km2)": 74,
+    "Growth Rate": 0.0103,
+    "World %": 0.0023,
+    "World Rank": 69
+  },
+  {
+    "Country": "Guatemala",
+    "Population 2024": 18358430,
+    "Population 2023": 18092026,
+    "Area (km2)": "107.2K",
+    "Density (/km2)": 171,
+    "Growth Rate": 0.0147,
+    "World %": 0.0023,
+    "World Rank": 70
+  },
+  {
+    "Country": "Senegal",
+    "Population 2024": 18221567,
+    "Population 2023": 17763163,
+    "Area (km2)": "192.5K",
+    "Density (/km2)": 95,
+    "Growth Rate": 0.0258,
+    "World %": 0.0023,
+    "World Rank": 71
+  },
+  {
+    "Country": "Netherlands",
+    "Population 2024": 17671125,
+    "Population 2023": 17618299,
+    "Area (km2)": "33.7K",
+    "Density (/km2)": 525,
+    "Growth Rate": 0.003,
+    "World %": 0.0022,
+    "World Rank": 72
+  },
+  {
+    "Country": "Cambodia",
+    "Population 2024": 17121847,
+    "Population 2023": 16944826,
+    "Area (km2)": "176.5K",
+    "Density (/km2)": 97,
+    "Growth Rate": 0.0104,
+    "World %": 0.0021,
+    "World Rank": 73
+  },
+  {
+    "Country": "Zimbabwe",
+    "Population 2024": 17020321,
+    "Population 2023": 16665409,
+    "Area (km2)": "386.9K",
+    "Density (/km2)": 44,
+    "Growth Rate": 0.0213,
+    "World %": 0.0021,
+    "World Rank": 74
+  },
+  {
+    "Country": "Guinea",
+    "Population 2024": 14528770,
+    "Population 2023": 14190612,
+    "Area (km2)": "245.7K",
+    "Density (/km2)": 59,
+    "Growth Rate": 0.0238,
+    "World %": 0.0018,
+    "World Rank": 75
+  },
+  {
+    "Country": "Rwanda",
+    "Population 2024": 14414910,
+    "Population 2023": 14094683,
+    "Area (km2)": "24.7K",
+    "Density (/km2)": 584,
+    "Growth Rate": 0.0227,
+    "World %": 0.0018,
+    "World Rank": 76
+  },
+  {
+    "Country": "Benin",
+    "Population 2024": 14080072,
+    "Population 2023": 13712828,
+    "Area (km2)": "112.8K",
+    "Density (/km2)": 125,
+    "Growth Rate": 0.0268,
+    "World %": 0.0018,
+    "World Rank": 77
+  },
+  {
+    "Country": "Burundi",
+    "Population 2024": 13591657,
+    "Population 2023": 13238559,
+    "Area (km2)": "25.7K",
+    "Density (/km2)": 529,
+    "Growth Rate": 0.0267,
+    "World %": 0.0017,
+    "World Rank": 78
+  },
+  {
+    "Country": "Bolivia",
+    "Population 2024": 12567336,
+    "Population 2023": 12388571,
+    "Area (km2)": "1.1M",
+    "Density (/km2)": 12,
+    "Growth Rate": 0.0144,
+    "World %": 0.0016,
+    "World Rank": 79
+  },
+  {
+    "Country": "Tunisia",
+    "Population 2024": 12564689,
+    "Population 2023": 12458223,
+    "Area (km2)": "155.4K",
+    "Density (/km2)": 81,
+    "Growth Rate": 0.0085,
+    "World %": 0.0016,
+    "World Rank": 80
+  },
+  {
+    "Country": "Haiti",
+    "Population 2024": 11867030,
+    "Population 2023": 11724763,
+    "Area (km2)": "27.6K",
+    "Density (/km2)": 431,
+    "Growth Rate": 0.0121,
+    "World %": 0.0015,
+    "World Rank": 81
+  },
+  {
+    "Country": "Belgium",
+    "Population 2024": 11715774,
+    "Population 2023": 11686140,
+    "Area (km2)": "30.3K",
+    "Density (/km2)": 387,
+    "Growth Rate": 0.0025,
+    "World %": 0.0015,
+    "World Rank": 82
+  },
+  {
+    "Country": "Dominican Republic",
+    "Population 2024": 11434005,
+    "Population 2023": 11332972,
+    "Area (km2)": "48.3K",
+    "Density (/km2)": 237,
+    "Growth Rate": 0.0089,
+    "World %": 0.0014,
+    "World Rank": 83
+  },
+  {
+    "Country": "Jordan",
+    "Population 2024": 11384922,
+    "Population 2023": 11337052,
+    "Area (km2)": "88.8K",
+    "Density (/km2)": 128,
+    "Growth Rate": 0.0042,
+    "World %": 0.0014,
+    "World Rank": 84
+  },
+  {
+    "Country": "South Sudan",
+    "Population 2024": 11277092,
+    "Population 2023": 11088796,
+    "Area (km2)": "631.9K",
+    "Density (/km2)": 18,
+    "Growth Rate": 0.017,
+    "World %": 0.0014,
+    "World Rank": 85
+  },
+  {
+    "Country": "Cuba",
+    "Population 2024": 11174587,
+    "Population 2023": 11194449,
+    "Area (km2)": "103.8K",
+    "Density (/km2)": 108,
+    "Growth Rate": -0.0018,
+    "World %": 0.0014,
+    "World Rank": 86
+  },
+  {
+    "Country": "Honduras",
+    "Population 2024": 10759406,
+    "Population 2023": 10593798,
+    "Area (km2)": "111.9K",
+    "Density (/km2)": 96,
+    "Growth Rate": 0.0156,
+    "World %": 0.0013,
+    "World Rank": 87
+  },
+  {
+    "Country": "Sweden",
+    "Population 2024": 10673669,
+    "Population 2023": 10612086,
+    "Area (km2)": "407.3K",
+    "Density (/km2)": 26,
+    "Growth Rate": 0.0058,
+    "World %": 0.0013,
+    "World Rank": 88
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Population 2024": 10515788,
+    "Population 2023": 10329931,
+    "Area (km2)": "452.9K",
+    "Density (/km2)": 23,
+    "Growth Rate": 0.018,
+    "World %": 0.0013,
+    "World Rank": 89
+  },
+  {
+    "Country": "Czech Republic",
+    "Population 2024": 10503734,
+    "Population 2023": 10495295,
+    "Area (km2)": "77.2K",
+    "Density (/km2)": 136,
+    "Growth Rate": 0.0008,
+    "World %": 0.0013,
+    "World Rank": 90
+  },
+  {
+    "Country": "Azerbaijan",
+    "Population 2024": 10462904,
+    "Population 2023": 10412651,
+    "Area (km2)": "82.6K",
+    "Density (/km2)": 127,
+    "Growth Rate": 0.0048,
+    "World %": 0.0013,
+    "World Rank": 91
+  },
+  {
+    "Country": "Tajikistan",
+    "Population 2024": 10331513,
+    "Population 2023": 10143543,
+    "Area (km2)": "138.8K",
+    "Density (/km2)": 74,
+    "Growth Rate": 0.0185,
+    "World %": 0.0013,
+    "World Rank": 92
+  },
+  {
+    "Country": "Greece",
+    "Population 2024": 10302720,
+    "Population 2023": 10341277,
+    "Area (km2)": "128.9K",
+    "Density (/km2)": 80,
+    "Growth Rate": -0.0037,
+    "World %": 0.0013,
+    "World Rank": 93
+  },
+  {
+    "Country": "Portugal",
+    "Population 2024": 10223349,
+    "Population 2023": 10247605,
+    "Area (km2)": "91.6K",
+    "Density (/km2)": 112,
+    "Growth Rate": -0.0024,
+    "World %": 0.0013,
+    "World Rank": 94
+  },
+  {
+    "Country": "Hungary",
+    "Population 2024": 9994993,
+    "Population 2023": 10156239,
+    "Area (km2)": "91.3K",
+    "Density (/km2)": 110,
+    "Growth Rate": -0.0159,
+    "World %": 0.0012,
+    "World Rank": 95
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Population 2024": 9591853,
+    "Population 2023": 9516871,
+    "Area (km2)": "71K",
+    "Density (/km2)": 135,
+    "Growth Rate": 0.0079,
+    "World %": 0.0012,
+    "World Rank": 96
+  },
+  {
+    "Country": "Belarus",
+    "Population 2024": 9455037,
+    "Population 2023": 9498238,
+    "Area (km2)": "203K",
+    "Density (/km2)": 47,
+    "Growth Rate": -0.0045,
+    "World %": 0.0012,
+    "World Rank": 97
+  },
+  {
+    "Country": "Israel",
+    "Population 2024": 9311652,
+    "Population 2023": 9174520,
+    "Area (km2)": "21.6K",
+    "Density (/km2)": 430,
+    "Growth Rate": 0.0149,
+    "World %": 0.0012,
+    "World Rank": 98
+  },
+  {
+    "Country": "Togo",
+    "Population 2024": 9260864,
+    "Population 2023": 9053799,
+    "Area (km2)": "54.4K",
+    "Density (/km2)": 170,
+    "Growth Rate": 0.0229,
+    "World %": 0.0012,
+    "World Rank": 99
+  },
+  {
+    "Country": "Sierra Leone",
+    "Population 2024": 8977972,
+    "Population 2023": 8791092,
+    "Area (km2)": "72.2K",
+    "Density (/km2)": 124,
+    "Growth Rate": 0.0213,
+    "World %": 0.0011,
+    "World Rank": 100
+  },
+  {
+    "Country": "Austria",
+    "Population 2024": 8977139,
+    "Population 2023": 8958960,
+    "Area (km2)": "82.5K",
+    "Density (/km2)": 109,
+    "Growth Rate": 0.002,
+    "World %": 0.0011,
+    "World Rank": 101
+  },
+  {
+    "Country": "Switzerland",
+    "Population 2024": 8851431,
+    "Population 2023": 8796669,
+    "Area (km2)": "39.5K",
+    "Density (/km2)": 224,
+    "Growth Rate": 0.0062,
+    "World %": 0.0011,
+    "World Rank": 102
+  },
+  {
+    "Country": "Laos",
+    "Population 2024": 7736681,
+    "Population 2023": 7633779,
+    "Area (km2)": "230.8K",
+    "Density (/km2)": 34,
+    "Growth Rate": 0.0135,
+    "World %": 0.001,
+    "World Rank": 103
+  },
+  {
+    "Country": "Hong Kong",
+    "Population 2024": 7496681,
+    "Population 2023": 7491609,
+    "Area (km2)": "1.1K",
+    "Density (/km2)": 7140,
+    "Growth Rate": 0.0007,
+    "World %": 0.0009,
+    "World Rank": 104
+  },
+  {
+    "Country": "Nicaragua",
+    "Population 2024": 7142529,
+    "Population 2023": 7046310,
+    "Area (km2)": "120.3K",
+    "Density (/km2)": 59,
+    "Growth Rate": 0.0137,
+    "World %": 0.0009,
+    "World Rank": 105
+  },
+  {
+    "Country": "Serbia",
+    "Population 2024": 7097028,
+    "Population 2023": 7149077,
+    "Area (km2)": "87.5K",
+    "Density (/km2)": 81,
+    "Growth Rate": -0.0073,
+    "World %": 0.0009,
+    "World Rank": 106
+  },
+  {
+    "Country": "Libya",
+    "Population 2024": 6964197,
+    "Population 2023": 6888388,
+    "Area (km2)": "1.8M",
+    "Density (/km2)": 4,
+    "Growth Rate": 0.011,
+    "World %": 0.0009,
+    "World Rank": 107
+  },
+  {
+    "Country": "Paraguay",
+    "Population 2024": 6947270,
+    "Population 2023": 6861524,
+    "Area (km2)": "397.3K",
+    "Density (/km2)": 17,
+    "Growth Rate": 0.0125,
+    "World %": 0.0009,
+    "World Rank": 108
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Population 2024": 6839606,
+    "Population 2023": 6735347,
+    "Area (km2)": "191.8K",
+    "Density (/km2)": 36,
+    "Growth Rate": 0.0155,
+    "World %": 0.0009,
+    "World Rank": 109
+  },
+  {
+    "Country": "Bulgaria",
+    "Population 2024": 6618615,
+    "Population 2023": 6687717,
+    "Area (km2)": "108.6K",
+    "Density (/km2)": 61,
+    "Growth Rate": -0.0103,
+    "World %": 0.0008,
+    "World Rank": 110
+  },
+  {
+    "Country": "Turkmenistan",
+    "Population 2024": 6598071,
+    "Population 2023": 6516100,
+    "Area (km2)": "469.9K",
+    "Density (/km2)": 14,
+    "Growth Rate": 0.0126,
+    "World %": 0.0008,
+    "World Rank": 111
+  },
+  {
+    "Country": "El Salvador",
+    "Population 2024": 6396289,
+    "Population 2023": 6364943,
+    "Area (km2)": "20.7K",
+    "Density (/km2)": 309,
+    "Growth Rate": 0.0049,
+    "World %": 0.0008,
+    "World Rank": 112
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Population 2024": 6244547,
+    "Population 2023": 6106869,
+    "Area (km2)": "341.5K",
+    "Density (/km2)": 18,
+    "Growth Rate": 0.0225,
+    "World %": 0.0008,
+    "World Rank": 113
+  },
+  {
+    "Country": "Singapore",
+    "Population 2024": 6052709,
+    "Population 2023": 6014723,
+    "Area (km2)": 718,
+    "Density (/km2)": 8430,
+    "Growth Rate": 0.0063,
+    "World %": 0.0008,
+    "World Rank": 114
+  },
+  {
+    "Country": "Denmark",
+    "Population 2024": 5939695,
+    "Population 2023": 5910913,
+    "Area (km2)": "40K",
+    "Density (/km2)": 148,
+    "Growth Rate": 0.0049,
+    "World %": 0.0007,
+    "World Rank": 115
+  },
+  {
+    "Country": "Central African Republic",
+    "Population 2024": 5915627,
+    "Population 2023": 5742315,
+    "Area (km2)": "623K",
+    "Density (/km2)": 9,
+    "Growth Rate": 0.0302,
+    "World %": 0.0007,
+    "World Rank": 116
+  },
+  {
+    "Country": "Slovakia",
+    "Population 2024": 5702832,
+    "Population 2023": 5795199,
+    "Area (km2)": "49K",
+    "Density (/km2)": 116,
+    "Growth Rate": -0.0159,
+    "World %": 0.0007,
+    "World Rank": 117
+  },
+  {
+    "Country": "Finland",
+    "Population 2024": 5549886,
+    "Population 2023": 5545475,
+    "Area (km2)": "303.9K",
+    "Density (/km2)": 18,
+    "Growth Rate": 0.0008,
+    "World %": 0.0007,
+    "World Rank": 118
+  },
+  {
+    "Country": "Liberia",
+    "Population 2024": 5536949,
+    "Population 2023": 5418377,
+    "Area (km2)": "96.3K",
+    "Density (/km2)": 57,
+    "Growth Rate": 0.0219,
+    "World %": 0.0007,
+    "World Rank": 119
+  },
+  {
+    "Country": "Norway",
+    "Population 2024": 5514477,
+    "Population 2023": 5474360,
+    "Area (km2)": "364.3K",
+    "Density (/km2)": 15,
+    "Growth Rate": 0.0073,
+    "World %": 0.0007,
+    "World Rank": 120
+  },
+  {
+    "Country": "Palestine",
+    "Population 2024": 5494963,
+    "Population 2023": 5371230,
+    "Area (km2)": "6K",
+    "Density (/km2)": 913,
+    "Growth Rate": 0.023,
+    "World %": 0.0007,
+    "World Rank": 121
+  },
+  {
+    "Country": "New Zealand",
+    "Population 2024": 5269939,
+    "Population 2023": 5228100,
+    "Area (km2)": "263.3K",
+    "Density (/km2)": 20,
+    "Growth Rate": 0.008,
+    "World %": 0.0007,
+    "World Rank": 122
+  },
+  {
+    "Country": "Costa Rica",
+    "Population 2024": 5246714,
+    "Population 2023": 5212173,
+    "Area (km2)": "51.1K",
+    "Density (/km2)": 103,
+    "Growth Rate": 0.0066,
+    "World %": 0.0007,
+    "World Rank": 123
+  },
+  {
+    "Country": "Lebanon",
+    "Population 2024": 5219044,
+    "Population 2023": 5353930,
+    "Area (km2)": "10.2K",
+    "Density (/km2)": 510,
+    "Growth Rate": -0.0252,
+    "World %": 0.0007,
+    "World Rank": 124
+  },
+  {
+    "Country": "Ireland",
+    "Population 2024": 5089478,
+    "Population 2023": 5056935,
+    "Area (km2)": "68.9K",
+    "Density (/km2)": 74,
+    "Growth Rate": 0.0064,
+    "World %": 0.0006,
+    "World Rank": 125
+  },
+  {
+    "Country": "Mauritania",
+    "Population 2024": 4993922,
+    "Population 2023": 4862989,
+    "Area (km2)": "1M",
+    "Density (/km2)": 5,
+    "Growth Rate": 0.0269,
+    "World %": 0.0006,
+    "World Rank": 126
+  },
+  {
+    "Country": "Oman",
+    "Population 2024": 4713553,
+    "Population 2023": 4644384,
+    "Area (km2)": "309.5K",
+    "Density (/km2)": 15,
+    "Growth Rate": 0.0149,
+    "World %": 0.0006,
+    "World Rank": 127
+  },
+  {
+    "Country": "Panama",
+    "Population 2024": 4527961,
+    "Population 2023": 4468087,
+    "Area (km2)": "74.2K",
+    "Density (/km2)": 61,
+    "Growth Rate": 0.0134,
+    "World %": 0.0006,
+    "World Rank": 128
+  },
+  {
+    "Country": "Kuwait",
+    "Population 2024": 4349380,
+    "Population 2023": 4310108,
+    "Area (km2)": "17.8K",
+    "Density (/km2)": 244,
+    "Growth Rate": 0.0091,
+    "World %": 0.0005,
+    "World Rank": 129
+  },
+  {
+    "Country": "Croatia",
+    "Population 2024": 3986627,
+    "Population 2023": 4008617,
+    "Area (km2)": "56K",
+    "Density (/km2)": 71,
+    "Growth Rate": -0.0055,
+    "World %": 0.0005,
+    "World Rank": 130
+  },
+  {
+    "Country": "Eritrea",
+    "Population 2024": 3817651,
+    "Population 2023": 3748901,
+    "Area (km2)": "121K",
+    "Density (/km2)": 32,
+    "Growth Rate": 0.0183,
+    "World %": 0.0005,
+    "World Rank": 131
+  },
+  {
+    "Country": "Georgia",
+    "Population 2024": 3717425,
+    "Population 2023": 3728282,
+    "Area (km2)": "69.5K",
+    "Density (/km2)": 53,
+    "Growth Rate": -0.0029,
+    "World %": 0.0005,
+    "World Rank": 132
+  },
+  {
+    "Country": "Mongolia",
+    "Population 2024": 3493629,
+    "Population 2023": 3447157,
+    "Area (km2)": "1.6M",
+    "Density (/km2)": 2,
+    "Growth Rate": 0.0135,
+    "World %": 0.0004,
+    "World Rank": 133
+  },
+  {
+    "Country": "Uruguay",
+    "Population 2024": 3423316,
+    "Population 2023": 3423108,
+    "Area (km2)": "175K",
+    "Density (/km2)": 20,
+    "Growth Rate": 0.0001,
+    "World %": 0.0004,
+    "World Rank": 134
+  },
+  {
+    "Country": "Moldova",
+    "Population 2024": 3329865,
+    "Population 2023": 3435931,
+    "Area (km2)": "32.9K",
+    "Density (/km2)": 101,
+    "Growth Rate": -0.0309,
+    "World %": 0.0004,
+    "World Rank": 135
+  },
+  {
+    "Country": "Puerto Rico",
+    "Population 2024": 3268802,
+    "Population 2023": 3260314,
+    "Area (km2)": "8.9K",
+    "Density (/km2)": 369,
+    "Growth Rate": 0.0026,
+    "World %": 0.0004,
+    "World Rank": 136
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Population 2024": 3194378,
+    "Population 2023": 3210847,
+    "Area (km2)": "51.2K",
+    "Density (/km2)": 62,
+    "Growth Rate": -0.0051,
+    "World %": 0.0004,
+    "World Rank": 137
+  },
+  {
+    "Country": "Gambia",
+    "Population 2024": 2841803,
+    "Population 2023": 2773168,
+    "Area (km2)": "10.1K",
+    "Density (/km2)": 281,
+    "Growth Rate": 0.0247,
+    "World %": 0.0004,
+    "World Rank": 138
+  },
+  {
+    "Country": "Albania",
+    "Population 2024": 2826020,
+    "Population 2023": 2832439,
+    "Area (km2)": "27.4K",
+    "Density (/km2)": 103,
+    "Growth Rate": -0.0023,
+    "World %": 0.0004,
+    "World Rank": 139
+  },
+  {
+    "Country": "Jamaica",
+    "Population 2024": 2824738,
+    "Population 2023": 2825544,
+    "Area (km2)": "10.8K",
+    "Density (/km2)": 261,
+    "Growth Rate": -0.0003,
+    "World %": 0.0004,
+    "World Rank": 140
+  },
+  {
+    "Country": "Armenia",
+    "Population 2024": 2777979,
+    "Population 2023": 2777970,
+    "Area (km2)": "28.5K",
+    "Density (/km2)": 98,
+    "Growth Rate": 0,
+    "World %": 0.0003,
+    "World Rank": 141
+  },
+  {
+    "Country": "Qatar",
+    "Population 2024": 2737061,
+    "Population 2023": 2716391,
+    "Area (km2)": "11.5K",
+    "Density (/km2)": 238,
+    "Growth Rate": 0.0076,
+    "World %": 0.0003,
+    "World Rank": 142
+  },
+  {
+    "Country": "Botswana",
+    "Population 2024": 2719694,
+    "Population 2023": 2675352,
+    "Area (km2)": "566.7K",
+    "Density (/km2)": 5,
+    "Growth Rate": 0.0166,
+    "World %": 0.0003,
+    "World Rank": 143
+  },
+  {
+    "Country": "Lithuania",
+    "Population 2024": 2692798,
+    "Population 2023": 2718352,
+    "Area (km2)": "62.6K",
+    "Density (/km2)": 43,
+    "Growth Rate": -0.0094,
+    "World %": 0.0003,
+    "World Rank": 144
+  },
+  {
+    "Country": "Namibia",
+    "Population 2024": 2645805,
+    "Population 2023": 2604172,
+    "Area (km2)": "823.3K",
+    "Density (/km2)": 3,
+    "Growth Rate": 0.016,
+    "World %": 0.0003,
+    "World Rank": 145
+  },
+  {
+    "Country": "Gabon",
+    "Population 2024": 2484557,
+    "Population 2023": 2436566,
+    "Area (km2)": "257.7K",
+    "Density (/km2)": 10,
+    "Growth Rate": 0.0197,
+    "World %": 0.0003,
+    "World Rank": 146
+  },
+  {
+    "Country": "Lesotho",
+    "Population 2024": 2356083,
+    "Population 2023": 2330318,
+    "Area (km2)": "30.4K",
+    "Density (/km2)": 78,
+    "Growth Rate": 0.0111,
+    "World %": 0.0003,
+    "World Rank": 147
+  },
+  {
+    "Country": "Guinea Bissau",
+    "Population 2024": 2197149,
+    "Population 2023": 2150842,
+    "Area (km2)": "28.1K",
+    "Density (/km2)": 78,
+    "Growth Rate": 0.0215,
+    "World %": 0.0003,
+    "World Rank": 148
+  },
+  {
+    "Country": "Slovenia",
+    "Population 2024": 2118965,
+    "Population 2023": 2119675,
+    "Area (km2)": "20.1K",
+    "Density (/km2)": 105,
+    "Growth Rate": -0.0003,
+    "World %": 0.0003,
+    "World Rank": 149
+  },
+  {
+    "Country": "North Macedonia",
+    "Population 2024": 2082706,
+    "Population 2023": 2085679,
+    "Area (km2)": "25.2K",
+    "Density (/km2)": 83,
+    "Growth Rate": -0.0014,
+    "World %": 0.0003,
+    "World Rank": 150
+  },
+  {
+    "Country": "Latvia",
+    "Population 2024": 1810240,
+    "Population 2023": 1830211,
+    "Area (km2)": "62.2K",
+    "Density (/km2)": 29,
+    "Growth Rate": -0.0109,
+    "World %": 0.0002,
+    "World Rank": 151
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Population 2024": 1754993,
+    "Population 2023": 1714671,
+    "Area (km2)": "28.1K",
+    "Density (/km2)": 63,
+    "Growth Rate": 0.0235,
+    "World %": 0.0002,
+    "World Rank": 152
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Population 2024": 1538200,
+    "Population 2023": 1534937,
+    "Area (km2)": "5.1K",
+    "Density (/km2)": 300,
+    "Growth Rate": 0.0021,
+    "World %": 0.0002,
+    "World Rank": 153
+  },
+  {
+    "Country": "Bahrain",
+    "Population 2024": 1498712,
+    "Population 2023": 1485509,
+    "Area (km2)": 785,
+    "Density (/km2)": 1909,
+    "Growth Rate": 0.0089,
+    "World %": 0.0002,
+    "World Rank": 154
+  },
+  {
+    "Country": "Timor Leste",
+    "Population 2024": 1379883,
+    "Population 2023": 1360596,
+    "Area (km2)": "14.9K",
+    "Density (/km2)": 93,
+    "Growth Rate": 0.0142,
+    "World %": 0.0002,
+    "World Rank": 155
+  },
+  {
+    "Country": "Estonia",
+    "Population 2024": 1319041,
+    "Population 2023": 1322765,
+    "Area (km2)": "42.8K",
+    "Density (/km2)": 31,
+    "Growth Rate": -0.0028,
+    "World %": 0.0002,
+    "World Rank": 156
+  },
+  {
+    "Country": "Mauritius",
+    "Population 2024": 1301978,
+    "Population 2023": 1300557,
+    "Area (km2)": "2K",
+    "Density (/km2)": 641,
+    "Growth Rate": 0.0011,
+    "World %": 0.0002,
+    "World Rank": 157
+  },
+  {
+    "Country": "Cyprus",
+    "Population 2024": 1268467,
+    "Population 2023": 1260138,
+    "Area (km2)": "9.2K",
+    "Density (/km2)": 137,
+    "Growth Rate": 0.0066,
+    "World %": 0.0002,
+    "World Rank": 158
+  },
+  {
+    "Country": "Eswatini",
+    "Population 2024": 1222075,
+    "Population 2023": 1210822,
+    "Area (km2)": "17.2K",
+    "Density (/km2)": 71,
+    "Growth Rate": 0.0093,
+    "World %": 0.0002,
+    "World Rank": 159
+  },
+  {
+    "Country": "Djibouti",
+    "Population 2024": 1152329,
+    "Population 2023": 1136455,
+    "Area (km2)": "23.2K",
+    "Density (/km2)": 50,
+    "Growth Rate": 0.014,
+    "World %": 0.0001,
+    "World Rank": 160
+  },
+  {
+    "Country": "Reunion",
+    "Population 2024": 989350,
+    "Population 2023": 981796,
+    "Area (km2)": "2.5K",
+    "Density (/km2)": 394,
+    "Growth Rate": 0.0077,
+    "World %": 0.0001,
+    "World Rank": 161
+  },
+  {
+    "Country": "Fiji",
+    "Population 2024": 943072,
+    "Population 2023": 936375,
+    "Area (km2)": "18.3K",
+    "Density (/km2)": 52,
+    "Growth Rate": 0.0072,
+    "World %": 0.0001,
+    "World Rank": 162
+  },
+  {
+    "Country": "Comoros",
+    "Population 2024": 867605,
+    "Population 2023": 852075,
+    "Area (km2)": "1.9K",
+    "Density (/km2)": 466,
+    "Growth Rate": 0.0182,
+    "World %": 0.0001,
+    "World Rank": 163
+  },
+  {
+    "Country": "Guyana",
+    "Population 2024": 819594,
+    "Population 2023": 813834,
+    "Area (km2)": "196.8K",
+    "Density (/km2)": 4,
+    "Growth Rate": 0.0071,
+    "World %": 0.0001,
+    "World Rank": 164
+  },
+  {
+    "Country": "Bhutan",
+    "Population 2024": 792382,
+    "Population 2023": 787424,
+    "Area (km2)": "38.1K",
+    "Density (/km2)": 21,
+    "Growth Rate": 0.0063,
+    "World %": 0.0001,
+    "World Rank": 165
+  },
+  {
+    "Country": "Solomon Islands",
+    "Population 2024": 756673,
+    "Population 2023": 740424,
+    "Area (km2)": "28K",
+    "Density (/km2)": 27,
+    "Growth Rate": 0.0219,
+    "World %": 0.0001,
+    "World Rank": 166
+  },
+  {
+    "Country": "Macau",
+    "Population 2024": 713082,
+    "Population 2023": 704149,
+    "Area (km2)": 33,
+    "Density (/km2)": 21674,
+    "Growth Rate": 0.0127,
+    "World %": 0.0001,
+    "World Rank": 167
+  },
+  {
+    "Country": "Luxembourg",
+    "Population 2024": 661594,
+    "Population 2023": 654768,
+    "Area (km2)": "2.6K",
+    "Density (/km2)": 257,
+    "Growth Rate": 0.0104,
+    "World %": 0.0001,
+    "World Rank": 168
+  },
+  {
+    "Country": "Suriname",
+    "Population 2024": 628785,
+    "Population 2023": 623236,
+    "Area (km2)": "156K",
+    "Density (/km2)": 4,
+    "Growth Rate": 0.0089,
+    "World %": 0.0001,
+    "World Rank": 169
+  },
+  {
+    "Country": "Montenegro",
+    "Population 2024": 626102,
+    "Population 2023": 626485,
+    "Area (km2)": "13.4K",
+    "Density (/km2)": 47,
+    "Growth Rate": -0.0006,
+    "World %": 0.0001,
+    "World Rank": 170
+  },
+  {
+    "Country": "Cape Verde",
+    "Population 2024": 604461,
+    "Population 2023": 598682,
+    "Area (km2)": "4K",
+    "Density (/km2)": 150,
+    "Growth Rate": 0.0097,
+    "World %": 0.0001,
+    "World Rank": 171
+  },
+  {
+    "Country": "Western Sahara",
+    "Population 2024": 598385,
+    "Population 2023": 587259,
+    "Area (km2)": "266K",
+    "Density (/km2)": 2,
+    "Growth Rate": 0.0189,
+    "World %": 0.0001,
+    "World Rank": 172
+  },
+  {
+    "Country": "Malta",
+    "Population 2024": 536740,
+    "Population 2023": 535064,
+    "Area (km2)": 320,
+    "Density (/km2)": 1677,
+    "Growth Rate": 0.0031,
+    "World %": 0.0001,
+    "World Rank": 173
+  },
+  {
+    "Country": "Maldives",
+    "Population 2024": 517887,
+    "Population 2023": 521021,
+    "Area (km2)": 300,
+    "Density (/km2)": 1726,
+    "Growth Rate": -0.006,
+    "World %": 0.0001,
+    "World Rank": 174
+  },
+  {
+    "Country": "Brunei",
+    "Population 2024": 455858,
+    "Population 2023": 452524,
+    "Area (km2)": "5.3K",
+    "Density (/km2)": 87,
+    "Growth Rate": 0.0074,
+    "World %": 0.0001,
+    "World Rank": 175
+  },
+  {
+    "Country": "Belize",
+    "Population 2024": 416656,
+    "Population 2023": 410825,
+    "Area (km2)": "22.8K",
+    "Density (/km2)": 18,
+    "Growth Rate": 0.0142,
+    "World %": 0.0001,
+    "World Rank": 176
+  },
+  {
+    "Country": "Bahamas",
+    "Population 2024": 415223,
+    "Population 2023": 412623,
+    "Area (km2)": "10K",
+    "Density (/km2)": 41,
+    "Growth Rate": 0.0063,
+    "World %": 0.0001,
+    "World Rank": 177
+  },
+  {
+    "Country": "Guadeloupe",
+    "Population 2024": 396346,
+    "Population 2023": 395839,
+    "Area (km2)": "1.6K",
+    "Density (/km2)": 243,
+    "Growth Rate": 0.0013,
+    "World %": 0,
+    "World Rank": 178
+  },
+  {
+    "Country": "Iceland",
+    "Population 2024": 377689,
+    "Population 2023": 375318,
+    "Area (km2)": "100.8K",
+    "Density (/km2)": 4,
+    "Growth Rate": 0.0063,
+    "World %": 0,
+    "World Rank": 179
+  },
+  {
+    "Country": "Martinique",
+    "Population 2024": 366416,
+    "Population 2023": 366981,
+    "Area (km2)": "1.1K",
+    "Density (/km2)": 325,
+    "Growth Rate": -0.0015,
+    "World %": 0,
+    "World Rank": 180
+  },
+  {
+    "Country": "Mayotte",
+    "Population 2024": 345996,
+    "Population 2023": 335995,
+    "Area (km2)": 374,
+    "Density (/km2)": 925,
+    "Growth Rate": 0.0298,
+    "World %": 0,
+    "World Rank": 181
+  },
+  {
+    "Country": "Vanuatu",
+    "Population 2024": 342325,
+    "Population 2023": 334506,
+    "Area (km2)": "12.2K",
+    "Density (/km2)": 28,
+    "Growth Rate": 0.0234,
+    "World %": 0,
+    "World Rank": 182
+  },
+  {
+    "Country": "French Guiana",
+    "Population 2024": 319796,
+    "Population 2023": 312155,
+    "Area (km2)": "83.5K",
+    "Density (/km2)": 4,
+    "Growth Rate": 0.0245,
+    "World %": 0,
+    "World Rank": 183
+  },
+  {
+    "Country": "French Polynesia",
+    "Population 2024": 311383,
+    "Population 2023": 308872,
+    "Area (km2)": "3.5K",
+    "Density (/km2)": 90,
+    "Growth Rate": 0.0081,
+    "World %": 0,
+    "World Rank": 184
+  },
+  {
+    "Country": "New Caledonia",
+    "Population 2024": 295966,
+    "Population 2023": 292991,
+    "Area (km2)": "18.3K",
+    "Density (/km2)": 16,
+    "Growth Rate": 0.0102,
+    "World %": 0,
+    "World Rank": 185
+  },
+  {
+    "Country": "Barbados",
+    "Population 2024": 282309,
+    "Population 2023": 281995,
+    "Area (km2)": 430,
+    "Density (/km2)": 657,
+    "Growth Rate": 0.0011,
+    "World %": 0,
+    "World Rank": 186
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Population 2024": 236381,
+    "Population 2023": 231856,
+    "Area (km2)": 960,
+    "Density (/km2)": 246,
+    "Growth Rate": 0.0195,
+    "World %": 0,
+    "World Rank": 187
+  },
+  {
+    "Country": "Samoa",
+    "Population 2024": 228966,
+    "Population 2023": 225681,
+    "Area (km2)": "2.8K",
+    "Density (/km2)": 82,
+    "Growth Rate": 0.0146,
+    "World %": 0,
+    "World Rank": 188
+  },
+  {
+    "Country": "Curacao",
+    "Population 2024": 192965,
+    "Population 2023": 192077,
+    "Area (km2)": 444,
+    "Density (/km2)": 435,
+    "Growth Rate": 0.0046,
+    "World %": 0,
+    "World Rank": 189
+  },
+  {
+    "Country": "Saint Lucia",
+    "Population 2024": 180805,
+    "Population 2023": 180251,
+    "Area (km2)": 610,
+    "Density (/km2)": 296,
+    "Growth Rate": 0.0031,
+    "World %": 0,
+    "World Rank": 190
+  },
+  {
+    "Country": "Guam",
+    "Population 2024": 174114,
+    "Population 2023": 172952,
+    "Area (km2)": 540,
+    "Density (/km2)": 322,
+    "Growth Rate": 0.0067,
+    "World %": 0,
+    "World Rank": 191
+  },
+  {
+    "Country": "Kiribati",
+    "Population 2024": 135763,
+    "Population 2023": 133515,
+    "Area (km2)": 810,
+    "Density (/km2)": 168,
+    "Growth Rate": 0.0168,
+    "World %": 0,
+    "World Rank": 192
+  },
+  {
+    "Country": "Grenada",
+    "Population 2024": 126887,
+    "Population 2023": 126183,
+    "Area (km2)": 340,
+    "Density (/km2)": 373,
+    "Growth Rate": 0.0056,
+    "World %": 0,
+    "World Rank": 193
+  },
+  {
+    "Country": "Micronesia",
+    "Population 2024": 116300,
+    "Population 2023": 115224,
+    "Area (km2)": 700,
+    "Density (/km2)": 166,
+    "Growth Rate": 0.0093,
+    "World %": 0,
+    "World Rank": 194
+  },
+  {
+    "Country": "Jersey",
+    "Population 2024": 112843,
+    "Population 2023": 111802,
+    "Area (km2)": 120,
+    "Density (/km2)": 940,
+    "Growth Rate": 0.0093,
+    "World %": 0,
+    "World Rank": 195
+  },
+  {
+    "Country": "Tonga",
+    "Population 2024": 108683,
+    "Population 2023": 107773,
+    "Area (km2)": 720,
+    "Density (/km2)": 151,
+    "Growth Rate": 0.0084,
+    "World %": 0,
+    "World Rank": 196
+  },
+  {
+    "Country": "Seychelles",
+    "Population 2024": 108263,
+    "Population 2023": 107660,
+    "Area (km2)": 460,
+    "Density (/km2)": 235,
+    "Growth Rate": 0.0056,
+    "World %": 0,
+    "World Rank": 197
+  },
+  {
+    "Country": "Aruba",
+    "Population 2024": 106177,
+    "Population 2023": 106277,
+    "Area (km2)": 180,
+    "Density (/km2)": 590,
+    "Growth Rate": -0.0009,
+    "World %": 0,
+    "World Rank": 198
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Population 2024": 103683,
+    "Population 2023": 103698,
+    "Area (km2)": 390,
+    "Density (/km2)": 266,
+    "Growth Rate": -0.0001,
+    "World %": 0,
+    "World Rank": 199
+  },
+  {
+    "Country": "United States Virgin Islands",
+    "Population 2024": 98055,
+    "Population 2023": 98750,
+    "Area (km2)": 347,
+    "Density (/km2)": 283,
+    "Growth Rate": -0.007,
+    "World %": 0,
+    "World Rank": 200
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Population 2024": 94816,
+    "Population 2023": 94298,
+    "Area (km2)": 440,
+    "Density (/km2)": 215,
+    "Growth Rate": 0.0055,
+    "World %": 0,
+    "World Rank": 201
+  },
+  {
+    "Country": "Isle of Man",
+    "Population 2024": 84904,
+    "Population 2023": 84710,
+    "Area (km2)": 570,
+    "Density (/km2)": 149,
+    "Growth Rate": 0.0023,
+    "World %": 0,
+    "World Rank": 202
+  },
+  {
+    "Country": "Andorra",
+    "Population 2024": 80341,
+    "Population 2023": 80088,
+    "Area (km2)": 470,
+    "Density (/km2)": 171,
+    "Growth Rate": 0.0032,
+    "World %": 0,
+    "World Rank": 203
+  },
+  {
+    "Country": "Dominica",
+    "Population 2024": 73368,
+    "Population 2023": 73040,
+    "Area (km2)": 750,
+    "Density (/km2)": 98,
+    "Growth Rate": 0.0045,
+    "World %": 0,
+    "World Rank": 204
+  },
+  {
+    "Country": "Cayman Islands",
+    "Population 2024": 69885,
+    "Population 2023": 69310,
+    "Area (km2)": 240,
+    "Density (/km2)": 291,
+    "Growth Rate": 0.0083,
+    "World %": 0,
+    "World Rank": 205
+  },
+  {
+    "Country": "Bermuda",
+    "Population 2024": 63935,
+    "Population 2023": 64069,
+    "Area (km2)": 54,
+    "Density (/km2)": 1184,
+    "Growth Rate": -0.0021,
+    "World %": 0,
+    "World Rank": 206
+  },
+  {
+    "Country": "Guernsey",
+    "Population 2024": 63788,
+    "Population 2023": 63544,
+    "Area (km2)": 63,
+    "Density (/km2)": 1013,
+    "Growth Rate": 0.0038,
+    "World %": 0,
+    "World Rank": 207
+  },
+  {
+    "Country": "Greenland",
+    "Population 2024": 56789,
+    "Population 2023": 56643,
+    "Area (km2)": "410.4K",
+    "Density (/km2)": 0.14,
+    "Growth Rate": 0.0026,
+    "World %": 0,
+    "World Rank": 208
+  },
+  {
+    "Country": "Faroe Islands",
+    "Population 2024": 53444,
+    "Population 2023": 53270,
+    "Area (km2)": "1.4K",
+    "Density (/km2)": 39,
+    "Growth Rate": 0.0033,
+    "World %": 0,
+    "World Rank": 209
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Population 2024": 50025,
+    "Population 2023": 49796,
+    "Area (km2)": 460,
+    "Density (/km2)": 109,
+    "Growth Rate": 0.0046,
+    "World %": 0,
+    "World Rank": 210
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Population 2024": 47847,
+    "Population 2023": 47755,
+    "Area (km2)": 260,
+    "Density (/km2)": 184,
+    "Growth Rate": 0.0019,
+    "World %": 0,
+    "World Rank": 211
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Population 2024": 46431,
+    "Population 2023": 46062,
+    "Area (km2)": 948,
+    "Density (/km2)": 49,
+    "Growth Rate": 0.008,
+    "World %": 0,
+    "World Rank": 212
+  },
+  {
+    "Country": "Sint Maarten",
+    "Population 2024": 44309,
+    "Population 2023": 44222,
+    "Area (km2)": 34,
+    "Density (/km2)": 1303,
+    "Growth Rate": 0.002,
+    "World %": 0,
+    "World Rank": 213
+  },
+  {
+    "Country": "American Samoa",
+    "Population 2024": 43544,
+    "Population 2023": 43914,
+    "Area (km2)": 200,
+    "Density (/km2)": 218,
+    "Growth Rate": -0.0084,
+    "World %": 0,
+    "World Rank": 214
+  },
+  {
+    "Country": "Marshall Islands",
+    "Population 2024": 42415,
+    "Population 2023": 41996,
+    "Area (km2)": 180,
+    "Density (/km2)": 236,
+    "Growth Rate": 0.01,
+    "World %": 0,
+    "World Rank": 215
+  },
+  {
+    "Country": "Liechtenstein",
+    "Population 2024": 39822,
+    "Population 2023": 39584,
+    "Area (km2)": 160,
+    "Density (/km2)": 249,
+    "Growth Rate": 0.006,
+    "World %": 0,
+    "World Rank": 216
+  },
+  {
+    "Country": "Monaco",
+    "Population 2024": 36157,
+    "Population 2023": 36297,
+    "Area (km2)": 2,
+    "Density (/km2)": 18079,
+    "Growth Rate": -0.0039,
+    "World %": 0,
+    "World Rank": 217
+  },
+  {
+    "Country": "San Marino",
+    "Population 2024": 33614,
+    "Population 2023": 33642,
+    "Area (km2)": 60,
+    "Density (/km2)": 560,
+    "Growth Rate": -0.0008,
+    "World %": 0,
+    "World Rank": 218
+  },
+  {
+    "Country": "Gibraltar",
+    "Population 2024": 32718,
+    "Population 2023": 32688,
+    "Area (km2)": 7,
+    "Density (/km2)": 4811,
+    "Growth Rate": 0.0009,
+    "World %": 0,
+    "World Rank": 219
+  },
+  {
+    "Country": "Saint Martin",
+    "Population 2024": 32337,
+    "Population 2023": 32077,
+    "Area (km2)": 50,
+    "Density (/km2)": 647,
+    "Growth Rate": 0.0081,
+    "World %": 0,
+    "World Rank": 220
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Population 2024": 31763,
+    "Population 2023": 31538,
+    "Area (km2)": 150,
+    "Density (/km2)": 212,
+    "Growth Rate": 0.0071,
+    "World %": 0,
+    "World Rank": 221
+  },
+  {
+    "Country": "Palau",
+    "Population 2024": 18051,
+    "Population 2023": 18058,
+    "Area (km2)": 460,
+    "Density (/km2)": 39,
+    "Growth Rate": -0.0004,
+    "World %": 0,
+    "World Rank": 222
+  },
+  {
+    "Country": "Cook Islands",
+    "Population 2024": 17072,
+    "Population 2023": 17044,
+    "Area (km2)": 240,
+    "Density (/km2)": 71,
+    "Growth Rate": 0.0016,
+    "World %": 0,
+    "World Rank": 223
+  },
+  {
+    "Country": "Anguilla",
+    "Population 2024": 15936,
+    "Population 2023": 15899,
+    "Area (km2)": 91,
+    "Density (/km2)": 175,
+    "Growth Rate": 0.0023,
+    "World %": 0,
+    "World Rank": 224
+  },
+  {
+    "Country": "Nauru",
+    "Population 2024": 12884,
+    "Population 2023": 12780,
+    "Area (km2)": 20,
+    "Density (/km2)": 644,
+    "Growth Rate": 0.0081,
+    "World %": 0,
+    "World Rank": 225
+  },
+  {
+    "Country": "Tuvalu",
+    "Population 2024": 11478,
+    "Population 2023": 11396,
+    "Area (km2)": 30,
+    "Density (/km2)": 383,
+    "Growth Rate": 0.0072,
+    "World %": 0,
+    "World Rank": 226
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "Population 2024": 11439,
+    "Population 2023": 11502,
+    "Area (km2)": 274,
+    "Density (/km2)": 42,
+    "Growth Rate": -0.0055,
+    "World %": 0,
+    "World Rank": 227
+  },
+  {
+    "Country": "Saint Barthelemy",
+    "Population 2024": 11019,
+    "Population 2023": 10994,
+    "Area (km2)": 25,
+    "Density (/km2)": 441,
+    "Growth Rate": 0.0023,
+    "World %": 0,
+    "World Rank": 228
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Population 2024": 5815,
+    "Population 2023": 5840,
+    "Area (km2)": 242,
+    "Density (/km2)": 24,
+    "Growth Rate": -0.0043,
+    "World %": "",
+    "World Rank": 229
+  },
+  {
+    "Country": "Montserrat",
+    "Population 2024": 4372,
+    "Population 2023": 4386,
+    "Area (km2)": 102,
+    "Density (/km2)": 43,
+    "Growth Rate": -0.0032,
+    "World %": "",
+    "World Rank": 230
+  },
+  {
+    "Country": "Falkland Islands",
+    "Population 2024": 3803,
+    "Population 2023": 3791,
+    "Area (km2)": "12.2K",
+    "Density (/km2)": 0.31,
+    "Growth Rate": 0.0032,
+    "World %": "",
+    "World Rank": 231
+  },
+  {
+    "Country": "Niue",
+    "Population 2024": 1935,
+    "Population 2023": 1935,
+    "Area (km2)": 261,
+    "Density (/km2)": 7,
+    "Growth Rate": 0,
+    "World %": "",
+    "World Rank": 232
+  },
+  {
+    "Country": "Tokelau",
+    "Population 2024": 1915,
+    "Population 2023": 1893,
+    "Area (km2)": 10,
+    "Density (/km2)": 192,
+    "Growth Rate": 0.0116,
+    "World %": "",
+    "World Rank": 233
+  },
+  {
+    "Country": "Vatican City",
+    "Population 2024": 526,
+    "Population 2023": 518,
+    "Area (km2)": "< 1",
+    "Density (/km2)": 1195,
+    "Growth Rate": 0.0154,
+    "World %": "",
+    "World Rank": 234
+  }
+]
